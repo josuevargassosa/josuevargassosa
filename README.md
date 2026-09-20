@@ -7,6 +7,9 @@
 </p>
 
 <p align="center">
+  <a href="https://josuevargassosa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-josuevargassosa.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/josue-vargas-sosa/">
     <img src="https://img.shields.io/badge/LinkedIn-Josue_Vargas-0077B5?style=for-the-badge&logoColor=white&labelColor=101010" alt="LinkedIn" />
   </a>
@@ -72,6 +75,15 @@ Me interesa especialmente el trabajo que no se ve: arquitecturas de monorepo, pi
 - 🧪 Metiendo **tests E2E con Playwright** en arquitecturas de monorepo (Turborepo + pnpm)
 - 🇪🇸 Preparando **herramientas y guías de desarrollo en español**, que es donde veo más hueco por cubrir
 - 🔐 Integrando autenticación corporativa con **Azure AD / MSAL**
+
+## Proyectos destacados
+
+<a href="https://github.com/josuevargassosa/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=josuevargassosa&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
+</a>
+
+**[portfolio](https://github.com/josuevargassosa/portfolio)** — Mi sitio personal, construido con Next.js 16 y React 19. Bilingüe con `next-intl`, modo claro/oscuro, formulario de contacto con validación Zod y protección antibots, cabeceras HTTP de seguridad y Dependabot en CI.
+🔗 **[josuevargassosa.vercel.app](https://josuevargassosa.vercel.app)**
 
 ## Trabajo profesional
 
