@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Josue_Vargas-0077B5?style=for-the-badge&logoColor=white&labelColor=101010" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Josue-Vargas-Varso">
-    <img src="https://img.shields.io/badge/VARSO_DIGITAL-Organización-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="VARSO DIGITAL" />
+    <img src="https://img.shields.io/badge/VARSO_DIGITAL-Organizaci%C3%B3n-1E40AF?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="VARSO DIGITAL" />
   </a>
 </p>
 
