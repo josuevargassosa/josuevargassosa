@@ -78,12 +78,13 @@ Me interesa especialmente el trabajo que no se ve: arquitecturas de monorepo, pi
 
 ## Proyectos destacados
 
-<a href="https://github.com/josuevargassosa/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=josuevargassosa&repo=portfolio&theme=tokyonight&hide_border=true" alt="portfolio" />
-</a>
+### 🌐 [portfolio](https://github.com/josuevargassosa/portfolio)
 
-**[portfolio](https://github.com/josuevargassosa/portfolio)** — Mi sitio personal, construido con Next.js 16 y React 19. Bilingüe con `next-intl`, modo claro/oscuro, formulario de contacto con validación Zod y protección antibots, cabeceras HTTP de seguridad y Dependabot en CI.
-🔗 **[josuevargassosa.com](https://josuevargassosa.com)**
+[![Web](https://img.shields.io/badge/en_vivo-josuevargassosa.com-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://josuevargassosa.com)
+![Lenguaje](https://img.shields.io/github/languages/top/josuevargassosa/portfolio?style=flat-square&color=3178C6)
+![Último commit](https://img.shields.io/github/last-commit/josuevargassosa/portfolio?style=flat-square&color=555)
+
+Mi sitio personal, construido con **Next.js 16** y **React 19**. Bilingüe con `next-intl`, modo claro/oscuro, formulario de contacto con validación Zod y protección antibots, cabeceras HTTP de seguridad y Dependabot en CI.
 
 ## Trabajo profesional
 
@@ -112,16 +113,19 @@ Sectores en los que he trabajado: **salud**, **educación**, **restauración**, 
   PENDIENTE — Añadir cuando estén publicados (Fases 3 y 4 del plan)
 ═══════════════════════════════════════════════════════════════
 
-## Proyectos destacados
+  ⚠️ NO usar github-readme-stats.vercel.app: la instancia pública se cae
+  con frecuencia (DEPLOYMENT_PAUSED) y deja imágenes rotas en el perfil.
+  Para añadir un proyecto, copiar el bloque de "portfolio" de arriba:
+  encabezado + badges de shields.io + descripción. shields.io lee la API
+  de GitHub directamente y es estable.
 
-[![claude-code-skills-es](https://github-readme-stats.vercel.app/api/pin/?username=josuevargassosa&repo=claude-code-skills-es&theme=tokyonight)](https://github.com/josuevargassosa/claude-code-skills-es)
-[![snapboda](https://github-readme-stats.vercel.app/api/pin/?username=josuevargassosa&repo=snapboda&theme=tokyonight)](https://github.com/josuevargassosa/snapboda)
-[![nextjs-ecommerce-starter](https://github-readme-stats.vercel.app/api/pin/?username=josuevargassosa&repo=nextjs-ecommerce-starter&theme=tokyonight)](https://github.com/josuevargassosa/nextjs-ecommerce-starter)
-[![estandares-desarrollo-web](https://github-readme-stats.vercel.app/api/pin/?username=josuevargassosa&repo=estandares-desarrollo-web&theme=tokyonight)](https://github.com/josuevargassosa/estandares-desarrollo-web)
+  Proyectos por publicar (Fases 3 y 4 del plan):
+    - claude-code-skills-es
+    - snapboda
+    - nextjs-ecommerce-starter
+    - estandares-desarrollo-web
 
-## Estadísticas
-(Recuperar cuando los números acompañen — ahora mismo restan más que suman)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=josuevargassosa&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuevargassosa&layout=compact&theme=tokyonight&hide_border=true)
+  Estadísticas: recuperar cuando los números acompañen. Si se quieren las
+  tarjetas de github-readme-stats, desplegar una instancia propia en Vercel
+  (el repo permite self-hosting) en lugar de usar la pública.
 -->
