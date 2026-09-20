@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://josuevargassosa.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-josuevargassosa.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" alt="Portfolio" />
+  <a href="https://josuevargassosa.com">
+    <img src="https://img.shields.io/badge/Portfolio-josuevargassosa.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/josue-vargas-sosa/">
     <img src="https://img.shields.io/badge/LinkedIn-Josue_Vargas-0077B5?style=for-the-badge&logoColor=white&labelColor=101010" alt="LinkedIn" />
@@ -83,7 +83,7 @@ Me interesa especialmente el trabajo que no se ve: arquitecturas de monorepo, pi
 </a>
 
 **[portfolio](https://github.com/josuevargassosa/portfolio)** — Mi sitio personal, construido con Next.js 16 y React 19. Bilingüe con `next-intl`, modo claro/oscuro, formulario de contacto con validación Zod y protección antibots, cabeceras HTTP de seguridad y Dependabot en CI.
-🔗 **[josuevargassosa.vercel.app](https://josuevargassosa.vercel.app)**
+🔗 **[josuevargassosa.com](https://josuevargassosa.com)**
 
 ## Trabajo profesional
 
